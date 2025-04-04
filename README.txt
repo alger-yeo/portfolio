@@ -1,1 +1,1 @@
-This is the repository used to host your website at https://alger-yeo.github.io/portfolio/.
+This is the repository used to host https://alger-yeo.github.io/portfolio/.
